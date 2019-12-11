@@ -76,7 +76,7 @@
 
       'special_build_target%': '<(special_build_target)',
       'ci_build%': '',
-      'build_standard_win%': 'c++17',
+      'build_standard_win%': 'c++latest',
       'submodules_loc%': '<(DEPTH)/..',
       'private_loc%': '<(DEPTH)/../../../DesktopPrivate',
       'third_party_loc%': '<(DEPTH)/../ThirdParty',
